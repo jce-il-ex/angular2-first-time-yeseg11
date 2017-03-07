@@ -75,6 +75,8 @@ Last question is if Firebase should over write file index.html. The answer to th
 now run:
  $ firebase deploy
 
+
+the firebase link : https://firstproject-25fc3.firebaseapp.com/
 ## References
 
 * **Hosting Angular 2 Applications On Firebase** - *Initial work* - [Sebastian Eschweiler](https://medium.com/codingthesmartway-com-blog/hosting-angular-2-applications-on-firebase-f194688c978d#.gt2pkhomp)
